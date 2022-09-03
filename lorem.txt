@@ -1,0 +1,19 @@
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+
+
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+
+
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+
+
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+
+
+Termion generates escapes and API calls for the user. This makes it a whole lot cleaner to use escapes.
+
+Supports Redox, Mac OS X, BSD, and Linux (or, in general, ANSI terminals).
